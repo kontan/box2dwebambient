@@ -2,7 +2,7 @@
 
 ## Abstract
 
-box2dwebambient is a declaration source file for [box2dweb](http://code.google.com/p/box2dweb/). box2dwebambient makes box2dweb strictly-typed.
+box2dwebambient is a typescript declaration source file for [box2dweb](http://code.google.com/p/box2dweb/). box2dwebambient provides strictly typed box2dweb API for TypeScript.
 
 ## Usage
 
