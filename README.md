@@ -1,8 +1,8 @@
-#box2dwebambient
+# box2dwebambient
 
 ## Abstract
 
-box2dwebambient is a typescript declaration source file for [box2dweb](http://code.google.com/p/box2dweb/). box2dwebambient provides strictly typed box2dweb API for TypeScript.
+**box2dwebambient** is a [TypeScript](http://www.typescriptlang.org/) declaration source file for [box2dweb](http://code.google.com/p/box2dweb/), 2D physics simulation engine for JavaScript. box2dwebambient provides strictly-typed box2dweb API for TypeScript. You can see the API reference at [box2dflash API Reference](http://www.box2dflash.org/docs/2.1a/reference/). box2dwebambient is licensed under MIT License.
 
 ## Usage
 
@@ -11,6 +11,8 @@ box2dwebambient is a typescript declaration source file for [box2dweb](http://co
 2. Write the following comment to your TypeScript source code using box2dweb:
 
     `/// <reference path="path/to/your/box2dwebambient.d.ts"/>`
+
+3. Build your project.
 
 ## License
 
