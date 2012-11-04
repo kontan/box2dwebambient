@@ -6,7 +6,7 @@
 
 ## Usage
 
-1. Download [box2dwebambient.d.ts](https://github.com/Kon-KDKTN/box2dwebambient/blob/master/box2dwebambient.d.ts) and locate it at a arbitrary directory.
+1. Download [box2dwebambient.d.ts](https://github.com/Kon-KDKTN/box2dwebambient/blob/master/box2dwebambient.d.ts) and locate it at any directory you like.
 
 2. Write the following comment to your TypeScript source code using box2dweb:
 
